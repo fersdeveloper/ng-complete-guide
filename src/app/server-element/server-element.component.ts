@@ -48,6 +48,5 @@ export class ServerElementComponent implements OnInit, OnChanges, DoCheck, After
 
   ngOnDestroy(): void {
     console.log('ngOnDestroy called!');
-
   }
 }
